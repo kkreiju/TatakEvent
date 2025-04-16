@@ -31,7 +31,7 @@ Whether you're organizing or attending, TatakEvent helps you manage everything e
 - 🧠 **AI-Powered Assistance via Juan** (your helpful Pinoy event buddy!)
 - 🎨 **Modern, Responsive UI with Tailwind & Shadcn UI**
 - 🛡 **Secure Authentication and Verification**
-- ⚙️ **Built on Next.js, Node.js, Supabase & more**
+- ⚙️ **Built on Next.js, Node.js, TailwindCSS, Supabase & more**
 
 ---
 
